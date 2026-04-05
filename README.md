@@ -56,9 +56,8 @@
 ---
 
 
-![](https://komarev.com/ghpvc/?username=nishantnsut27&color=blue)
 
----
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
