@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+  <title id="title">Nishant Raj</title>
+  <desc id="desc">Software engineer interested in AI and machine learning, full stack development, problem solving, and practical systems.</desc>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+
+    .line { opacity: 0; animation: show 18s linear infinite; }
+    .l1 { opacity: 1; }
+    .l2 { animation-delay: 6s; }
+    .l3 { animation-delay: 12s; }
+    .l1 .reveal, .l1 .caret { animation: type1 18s steps(58, end) infinite both; transform: translateX(620px); }
+    .l2 .reveal, .l2 .caret { animation: type2 18s steps(43, end) 6s infinite both; transform: translateX(459.7px); }
+    .l3 .reveal, .l3 .caret { animation: type3 18s steps(53, end) 12s infinite both; transform: translateX(566.6px); }
+    .caret rect { animation: blink 1s steps(1, end) infinite; }
+    .pulse { animation: flow 3.2s linear infinite; }
+    .halo { opacity: 0; transform-box: fill-box; transform-origin: center; animation: halo 3.2s ease-out infinite; }
+
+    @keyframes show {
+      0%, 31% { opacity: 1; }
+      31.1%, 100% { opacity: 0; }
+    }
+    @keyframes type1 {
+      0% { transform: translateX(0); }
+      14% { transform: translateX(620px); }
+      100% { transform: translateX(620px); }
+    }
+    @keyframes type2 {
+      0% { transform: translateX(0); }
+      11% { transform: translateX(459.7px); }
+      100% { transform: translateX(459.7px); }
+    }
+    @keyframes type3 {
+      0% { transform: translateX(0); }
+      14% { transform: translateX(566.6px); }
+      100% { transform: translateX(566.6px); }
+    }
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes flow {
+      from { stroke-dashoffset: 400; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes halo {
+      0%, 74% { opacity: 0; transform: scale(0.6); }
+      80% { opacity: 0.5; transform: scale(1); }
+      100% { opacity: 0; transform: scale(1.6); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .line, .l1 .reveal, .l1 .caret, .caret rect, .pulse, .halo { animation: none; }
+      .l1 { opacity: 1; }
+      .l2, .l3 { opacity: 0; }
+      .l1 .reveal, .l1 .caret { transform: translateX(620px); }
+      .pulse, .halo { opacity: 0; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="999" height="309" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+  <text class="mono" x="56" y="68" font-size="14" fill="#7d8590">@Nishantnsut27</text>
+  <text class="sans" x="54" y="130" font-size="54" font-weight="700" letter-spacing="-1.2" fill="#e6edf3">Nishant Raj</text>
+  <text class="sans" x="56" y="176" font-size="17" fill="#c9d1d9">Software engineer building useful things.</text>
+  <text class="sans" x="56" y="201" font-size="17" fill="#c9d1d9">Interested in AI, full stack work, and systems.</text>
+
+  <text class="mono" x="56" y="260" font-size="18" fill="#7d8590">&gt;</text>
+
+  <g class="line l1">
+    <defs><clipPath id="c1"><rect class="reveal" x="-560" y="236" width="640" height="36"/></clipPath></defs>
+    <text class="mono" x="80" y="260" font-size="18" fill="#e6edf3" textLength="620" lengthAdjust="spacing" clip-path="url(#c1)">Exploring AI and machine learning in practice.</text>
+    <g class="caret"><rect x="81" y="244" width="9" height="21" fill="#58a6ff"/></g>
+  </g>
+  <g class="line l2">
+    <defs><clipPath id="c2"><rect class="reveal" x="-560" y="236" width="640" height="36"/></clipPath></defs>
+    <text class="mono" x="80" y="260" font-size="18" fill="#e6edf3" textLength="459.7" lengthAdjust="spacing" clip-path="url(#c2)">Turning ideas into useful software.</text>
+    <g class="caret"><rect x="81" y="244" width="9" height="21" fill="#58a6ff"/></g>
+  </g>
+  <g class="line l3">
+    <defs><clipPath id="c3"><rect class="reveal" x="-560" y="236" width="640" height="36"/></clipPath></defs>
+    <text class="mono" x="80" y="260" font-size="18" fill="#e6edf3" textLength="566.6" lengthAdjust="spacing" clip-path="url(#c3)">Working across data, APIs, and interfaces.</text>
+    <g class="caret"><rect x="81" y="244" width="9" height="21" fill="#58a6ff"/></g>
+  </g>
+
+  <g transform="translate(0 5)">
+    <g fill="none" stroke="#7d8590" stroke-width="1.6" stroke-linecap="round">
+      <path d="M640 150 H940"/>
+      <path d="M700 150 C730 150 730 95 760 95 H840 C870 95 870 150 900 150"/>
+      <path d="M760 150 C780 150 780 205 800 205 H820 C840 205 840 150 860 150"/>
+    </g>
+
+    <path class="pulse" d="M640 150 H940" fill="none" stroke="#58a6ff" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="36 364"/>
+
+    <g fill="#0d1117" stroke="#7d8590" stroke-width="2">
+      <circle cx="660" cy="150" r="6"/>
+      <circle cx="700" cy="150" r="6"/>
+      <circle cx="760" cy="150" r="6"/>
+      <circle cx="780" cy="95" r="6"/>
+      <circle cx="820" cy="95" r="6"/>
+      <circle cx="810" cy="205" r="6"/>
+      <circle cx="860" cy="150" r="6"/>
+      <circle cx="900" cy="150" r="6"/>
+    </g>
+    <circle class="halo" cx="940" cy="150" r="14" fill="#58a6ff"/>
+    <circle cx="940" cy="150" r="7" fill="#58a6ff"/>
+
+    <g class="mono" font-size="11" fill="#7d8590">
+      <text x="640" y="136">main</text>
+      <text x="800" y="80" text-anchor="middle">feature</text>
+      <text x="810" y="230" text-anchor="middle">fix</text>
+    </g>
+  </g>
+</svg>

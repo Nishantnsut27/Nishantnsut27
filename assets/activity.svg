@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Nishant Raj language and GitHub activity dashboard</title>
+  <desc id="desc">The left panel shows actual language byte percentages across eight selected public repositories. The right panel shows 381 GitHub contributions since 2023, no current streak, a longest streak of 23 days from July 22 to August 13, 2026, and daily activity for the 30 days ending October 26, 2026.</desc>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}</style>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M500 32 V218" stroke="#30363d"/>
+  <text x="64" y="40" class="mono" font-size="12" fill="#7d8590">top languages</text>
+  <g fill="#161b22" stroke="#30363d"><rect x="64" y="61" width="22" height="22" rx="5"/><rect x="64" y="89" width="22" height="22" rx="5"/><rect x="64" y="117" width="22" height="22" rx="5"/><rect x="64" y="145" width="22" height="22" rx="5"/><rect x="64" y="173" width="22" height="22" rx="5"/></g>
+  <g class="mono" text-anchor="middle" font-size="8" font-weight="700"><text x="75" y="75" fill="#ffd43b">Py</text><text x="75" y="103" fill="#58a6ff">TS</text><text x="75" y="131" fill="#b6a0ff">CSS</text><text x="75" y="159" fill="#f0db4f">JS</text><text x="75" y="187" fill="#f06529">5</text></g>
+  <g class="mono" font-size="12" fill="#c9d1d9"><text x="102" y="78">Python</text><text x="102" y="106">TypeScript</text><text x="102" y="134">CSS</text><text x="102" y="162">JavaScript</text><text x="102" y="190">HTML</text></g>
+  <g fill="#21262d"><rect x="204" y="70" width="180" height="6" rx="3"/><rect x="204" y="98" width="180" height="6" rx="3"/><rect x="204" y="126" width="180" height="6" rx="3"/><rect x="204" y="154" width="180" height="6" rx="3"/><rect x="204" y="182" width="180" height="6" rx="3"/></g>
+  <g><rect x="204" y="70" width="80.3" height="6" rx="3" fill="#3572a5"/><rect x="204" y="98" width="58.3" height="6" rx="3" fill="#3178c6"/><rect x="204" y="126" width="19.1" height="6" rx="3" fill="#563d7c"/><rect x="204" y="154" width="15.1" height="6" rx="3" fill="#f1e05a"/><rect x="204" y="182" width="7.2" height="6" rx="3" fill="#e34c26"/></g>
+  <g class="mono" text-anchor="end" font-size="12" fill="#7d8590"><text x="436" y="78">44.6%</text><text x="436" y="106">32.4%</text><text x="436" y="134">10.6%</text><text x="436" y="162">8.4%</text><text x="436" y="190">4.0%</text></g>
+  <text x="64" y="222" class="mono" font-size="9" fill="#596b7d">PUBLIC CODE BYTES AND SELECTED REPOSITORIES</text>
+  <text x="564" y="40" class="mono" font-size="12" fill="#7d8590">contribution streak</text>
+  <g>
+    <text x="564" y="94" class="sans" font-size="30" font-weight="700" fill="#e6edf3">381</text>
+    <text x="564" y="116" class="mono" font-size="11" fill="#c9d1d9">contributions</text>
+    <text x="564" y="134" class="mono" font-size="10" fill="#7d8590">since 2023</text>
+    <text x="688" y="94" class="sans" font-size="30" font-weight="700" fill="#58a6ff">0</text>
+    <text x="688" y="116" class="mono" font-size="11" fill="#c9d1d9">current streak</text>
+    <text x="688" y="134" class="mono" font-size="10" fill="#7d8590">no active streak</text>
+    <text x="812" y="94" class="sans" font-size="30" font-weight="700" fill="#e6edf3">23</text>
+    <text x="812" y="116" class="mono" font-size="11" fill="#c9d1d9">longest streak</text>
+    <text x="812" y="134" class="mono" font-size="10" fill="#7d8590">Jul 22 to Aug 13, 2026</text>
+  </g>
+  <text x="564" y="170" class="mono" font-size="10" fill="#7d8590">last 30 days</text>
+  <g fill="#58a6ff">
+    <rect x="564" y="210" width="9" height="4" rx="2" fill-opacity="0.40"/><rect x="576.4" y="188.5" width="9" height="25.5" rx="2" fill-opacity="0.84"/><rect x="588.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="601.2" y="208.3" width="9" height="5.7" rx="2" fill-opacity="0.46"/><rect x="613.6" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="626" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="638.4" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="650.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="663.2" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="675.6" y="180" width="9" height="34" rx="2" fill-opacity="1"/><rect x="688" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="700.4" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="712.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="725.2" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="737.6" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="750" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="762.4" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="774.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="787.2" y="210" width="9" height="4" rx="2" fill-opacity="0.40"/><rect x="799.6" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="812" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="824.4" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="836.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="849.2" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="861.6" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="874" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="886.4" y="205" width="9" height="9" rx="2" fill-opacity="0.46"/><rect x="898.8" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="911.2" y="212" width="9" height="2" rx="1" fill="#30363d"/><rect x="923.6" y="212" width="9" height="2" rx="1" fill="#30363d"/>
+  </g>
+</svg>
